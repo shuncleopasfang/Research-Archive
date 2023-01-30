@@ -2,8 +2,8 @@
 Paper Reading Reviews From Shun Cleopas Fang.
 
 ## Topics:
-- Trustworthy Machine Learning
-- Differential Privacy
-- Cryptography
-- Algebra Coding Theory
+- trustworthy machine learning
+- differential privacy
+- cryptography
+- algebra coding theory
 - etc.
