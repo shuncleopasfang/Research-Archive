@@ -2,6 +2,6 @@
 Paper Reading Reviews From Shun Cleopas Fang.
 
 ## Topics:
-- cryptography
+- applied cryptography
 - coding theory
 - etc.
