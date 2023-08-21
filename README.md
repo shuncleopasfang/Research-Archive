@@ -3,6 +3,6 @@ Paper Reading Reviews From Shun Cleopas Fang
 
 ## Topics:
 - statistical machine learning
-- differential privacy
+- image processing
 - information theory
 - etc.
