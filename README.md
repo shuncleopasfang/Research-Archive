@@ -2,7 +2,7 @@
 Paper Reading Reviews From Shun Cleopas Fang
 
 ## Topics:
-- statistical machine learning
+- trustworthy machine learning
 - image processing
 - information theory
 - etc.
