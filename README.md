@@ -1,3 +1,3 @@
 ## Topics:
-- information theory
+- Information Theory
 - etc.
